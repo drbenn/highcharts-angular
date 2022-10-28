@@ -1,0 +1,13 @@
+.center-charts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(30deg, rgb(31, 31, 31),rgb(36, 35, 69),rgb(136, 150, 195), rgb(36, 58, 129));
+}
+
+.margin {
+    margin: 2rem 0rem;
+}
